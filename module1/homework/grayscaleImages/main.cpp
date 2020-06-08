@@ -43,7 +43,7 @@ int main() {
     // printMap(ninja);
     auto compressed = compressGrayscale(ninja);
     auto decompressed = decompressGrayscale(compressed);
-    std::cout << printMap(decompressed);
+    printMap(decompressed);
 
     return 0;
 }
