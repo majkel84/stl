@@ -28,7 +28,7 @@ ___
 
 * <!-- .element: class="fragment fade-in" --> dodawanie elementu: <code>push_front()</code>, <code>emplace_front()</code>, <code>insert_after()</code>, <code>emplace_after()</code>
 * <!-- .element: class="fragment fade-in" --> modyfikowanie/dostęp do elementu: należy samodzielnie odnaleźć element
-* <!-- .element: class="fragment fade-in" --> pierwszy/ostatni element: <code>front()</code>
+* <!-- .element: class="fragment fade-in" --> pierwszy element: <code>front()</code>
 * <!-- .element: class="fragment fade-in" --> rozmiar/czy kontener jest pusty: nie mamy <code>size()</code>, dostępny jest tylko <code>empty()</code>
 * <!-- .element: class="fragment fade-in" --> iterator początku/końca: <code>begin()</code>, <code>end()</code>
 * <!-- .element: class="fragment fade-in" --> iterator wskazujący element przed <code>begin()</code>: <code>before_begin()</code>
